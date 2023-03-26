@@ -1,0 +1,10 @@
+version: '3'
+services:
+  video-summarizer:
+    container_name: video-summarizer
+    build: .
+    volumes:
+      - ./src:/video_summarizer/src
+      - ./.streamlit:/video_summarizer/.streamlit
+    ports:
+      - 8000:8000
