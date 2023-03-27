@@ -23,7 +23,7 @@ https://docs.docker.com/engine/install/
 
 5.	Open the webapp powered by streamlit on http://localhost:8000 .
 6.	Upload the video. Make sure it’s less than 100mb.
-7.	You will see progress spinner until you see the download for summarized video
+7.	You will see progress bar until you see the download for summarized video
 
 ## DATASET
 
