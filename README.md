@@ -21,7 +21,7 @@ https://docs.docker.com/engine/install/
 4.	Build the image and run the container. This can take a while to build and run the container.
 `docker compose up --build`
 
-5.	Open the webapp powered by treamlit on http://localhost:8000 .
+5.	Open the webapp powered by streamlit on http://localhost:8000 .
 6.	Upload the video. Make sure it’s less than 100mb.
 7.	You will see progress spinner until you see the download for summarized video
 
